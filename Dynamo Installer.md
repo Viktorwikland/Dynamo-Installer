@@ -1,3 +1,4 @@
+# Dynamo Installer
 The idea of Dynamo Installer was born when I started creating Dynamo scripts to help my colleagues and noticed that most of them had no experience with Dynamo and didnt know how to run, or make my scripts accessible within Dynamo Player.
 This was especially true for scripts containing custom packages or nodes where even colleagues that had some experience with dynamo sometimes accedentally installed the wrong version of a package which might breake the script.
 
