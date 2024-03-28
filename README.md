@@ -4,7 +4,7 @@ This was especially true for scripts containing custom packages or nodes where e
 
 Dynamo Installer simplifies the process of getting your scripts and all other supporting files, such as custom packages and nodes into the Revit default folders - making them accessible inside of Dynamo player within just a few mouse clicks.
 
-
+## How to run
 1. Run RunMe.bat
 2. powershell script launches a small ui prompting user to specify revit version the files are compatible with.
   ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/51411a40-2ee0-4385-ae42-87637c1ba8b7)
@@ -13,7 +13,7 @@ Dynamo Installer simplifies the process of getting your scripts and all other su
    
    ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/9563b288-a058-4b9f-ab12-acc663657a34)
 
-
+## How it works
 This is achived by a template folder prepared by you and should include at the very least a dynamo script that is able to run from dynamo player.
 
 Dynamo scripts and custom nodes should be placed at the top level of the folder, alongside the .bat and .ps1.
@@ -30,7 +30,7 @@ Dynamo scripts and custom nodes can be updated with the installer as it writes o
 
 
 
-
-Note: This solution of managing dynamo is made extra easy since I know all of my colleagues have had all of the Revit versions installed the same way - meaning the directories of the default folders and dynamo versions dont differ from computer to computer.
+### Notes:
+This solution of managing dynamo is made extra easy since I know all of my colleagues have had all of the Revit versions installed the same way - meaning the directories of the default folders and dynamo versions dont differ from computer to computer.
 
 You might have to change the directories specified in the .ps1 slightly depending on which version of dynamo your company uses with each Revit version.
