@@ -12,9 +12,9 @@ The Dynamo Installer simplifies the process of getting your scripts and all othe
    
   ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/51411a40-2ee0-4385-ae42-87637c1ba8b7)
   
-4. Choose version and press "OK"
+4. Choose version and select "OK"
 5. The files are now copied into the corresponding folders depending on file type.
-6. Installation result presented in a dialog box
+6. Installation result is presented in a dialog box
    
    ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/9563b288-a058-4b9f-ab12-acc663657a34)
 
