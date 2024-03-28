@@ -1,9 +1,10 @@
 # Dynamo Installer
 
-The idea of Dynamo Installer was born when I started creating Dynamo scripts to help my colleagues and noticed that most of them had no experience with Dynamo and didnt know how to run, or make my scripts accessible within Dynamo Player.
+The idea of Dynamo Installer was born when I started creating Dynamo scripts to help my colleagues and noticed that most of them had no experience with Dynamo and didnt know how to run, or make scripts accessible within Dynamo Player.
 This was especially true for scripts containing custom nodes and packages where even colleagues that had some experience with dynamo sometimes accedentally installed the wrong version of a package which might break the script.
 
-Dynamo Installer simplifies the process of getting your scripts and all other supporting files, into the Revit default folders - making them accessible inside of Dynamo player within just a few mouse clicks.
+
+The Dynamo Installer simplifies the process of getting your scripts and all other supporting files, into the Revit default folders - making them accessible inside of Dynamo player within just a few mouse clicks.
 
 ## How to run
 1. Run RunMe.bat
@@ -16,7 +17,10 @@ Dynamo Installer simplifies the process of getting your scripts and all other su
    ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/9563b288-a058-4b9f-ab12-acc663657a34)
 
 ## How it works
-This is achived by a template folder prepared by you and should include at the very least a dynamo script that is able to run from dynamo player.
+
+The Dynamo Installer itself requires no installation, making it easy to place in a shared folder allowing colleagues to solely install the dynamo related files.
+
+The folder itself can be renamed to whatever, preferebly to something descriptive of its contents.
 
 Dynamo scripts and custom nodes should be placed at the top level of the folder, alongside the .bat and .ps1.
 Custom packages can be copied in their entierty and should be placed in the subfolder named "packageFiles".
