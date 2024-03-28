@@ -11,6 +11,7 @@ The Dynamo Installer simplifies the process of getting your scripts and all othe
 2. A powershell script launches, presenting a small ui prompting user to specify which revit version the files are compatible with.
    
   ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/51411a40-2ee0-4385-ae42-87637c1ba8b7)
+  
 4. Choose version and press "OK"
 5. The files are now copied into the corresponding folders depending on file type.
 6. Installation result presented in a dialog box
