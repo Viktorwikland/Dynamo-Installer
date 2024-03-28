@@ -1,9 +1,9 @@
 # Dynamo Installer
 
 The idea of Dynamo Installer was born when I started creating Dynamo scripts to help my colleagues and noticed that most of them had no experience with Dynamo and didnt know how to run, or make my scripts accessible within Dynamo Player.
-This was especially true for scripts containing custom packages or nodes where even colleagues that had some experience with dynamo sometimes accedentally installed the wrong version of a package which might break the script.
+This was especially true for scripts containing custom nodes and packages where even colleagues that had some experience with dynamo sometimes accedentally installed the wrong version of a package which might break the script.
 
-Dynamo Installer simplifies the process of getting your scripts and all other supporting files, such as custom packages and nodes into the Revit default folders - making them accessible inside of Dynamo player within just a few mouse clicks.
+Dynamo Installer simplifies the process of getting your scripts and all other supporting files, into the Revit default folders - making them accessible inside of Dynamo player within just a few mouse clicks.
 
 ## How to run
 1. Run RunMe.bat
