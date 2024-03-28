@@ -7,10 +7,11 @@ Dynamo Installer simplifies the process of getting your scripts and all other su
 
 ## How to run
 1. Run RunMe.bat
-2. powershell script launches a small ui prompting user to specify revit version the files are compatible with.
+2. A powershell script launches, presenting a small ui prompting user to specify which revit version the files are compatible with.
   ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/51411a40-2ee0-4385-ae42-87637c1ba8b7)
 3. Choose version and press "OK"
-4. Installation result presented in a dialog box
+4. The files are now copied into the corresponding folders depending on file type.
+5. Installation result presented in a dialog box
    
    ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/9563b288-a058-4b9f-ab12-acc663657a34)
 
@@ -35,3 +36,7 @@ Dynamo scripts and custom nodes can be updated with the installer as it writes o
 This solution of managing dynamo is made extra easy since I know all of my colleagues have had all of the Revit versions installed the same way - meaning the directories of the default folders and dynamo versions dont differ from computer to computer.
 
 You might have to change the directories specified in the .ps1 slightly depending on which version of dynamo your company uses with each Revit version.
+
+Current folders:
+![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/0d97985c-2f19-4005-b7bd-54ed4313b730)
+
