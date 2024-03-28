@@ -38,5 +38,6 @@ This solution of managing dynamo is made extra easy since I know all of my colle
 You might have to change the directories specified in the .ps1 slightly depending on which version of dynamo your company uses with each Revit version.
 
 Current folders:
+
 ![image](https://github.com/Viktorwikland/Dynamo-Installer/assets/164318861/0d97985c-2f19-4005-b7bd-54ed4313b730)
 
